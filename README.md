@@ -1,1 +1,1 @@
-# JavaEEHelloWorld
+# WildflyTest
